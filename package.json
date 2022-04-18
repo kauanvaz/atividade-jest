@@ -13,5 +13,9 @@
   "dependencies": {
     "express": "^4.17.1",
     "nanoid": "^3.1.30"
+  },
+  "devDependencies": {
+    "jest": "^27.5.1",
+    "supertest": "^6.2.2"
   }
 }
